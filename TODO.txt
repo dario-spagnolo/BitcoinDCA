@@ -1,0 +1,8 @@
+- Introduction and terminology
+- Better AreaChart colors
+- Date end
+- Better tooltip formatting
+- Assets on S3
+- Analytics
+- Cross-browser tests
+- Responsive UI
